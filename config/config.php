@@ -2,9 +2,9 @@
 	session_start();
 
 	// Define database
-	define('dbhost', 'wordpress.cs6royptlt8t.us-west-2.rds.amazonaws.com');
-	define('dbuser', 'wordpress');
-	define('dbpass', 'wordpress123');
+	define('dbhost', 'java.cqatpcvrosdp.ap-south-1.rds.amazonaws.com');
+	define('dbuser', 'spring');
+	define('dbpass', 'springboot');
 	define('dbname', 'rent');
 
 	// Connecting database
